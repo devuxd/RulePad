@@ -14,6 +14,9 @@ Overall, participants with RulePad were able to successfully author 13 times mor
 
 The result of this work is published in "RulePad: Interactive Authoring of Checkable Design Rules", FSE 2020.
 
+## Demo 
+
+YouTube: [https://youtu.be/u_IjorRovxc](https://youtu.be/u_IjorRovxc)
 
 ## Code
 
