@@ -24,3 +24,10 @@ RulePad is an extension of ActiveDocumentation
 There are 2 parts: [IDE connector](https://github.com/devuxd/ActiveDocumentation/releases/tag/RulePad) 
 and the [Main component](https://github.com/devuxd/active-doc-client/releases/tag/RulePad).
 
+### Installing ActiveDocumentation
+
+- Install _srcML_ version 0.9.5 as instructed [here](https://github.com/devuxd/active-doc-client/wiki#installing-srcml)
+- Install the plugin ([`ActiveDocumentationPlugin.zip`](https://github.com/devuxd/RulePad/blob/master/ActiveDocumentationPlugin.zip)) on IntelliJ IDE. The plugin has been tested on IntelliJ 2021.1.
+
+- Install the Main component by unzipping [`active-doc-client-RulePad.zip`](https://github.com/devuxd/RulePad/blob/master/active-doc-client-RulePad.zip) and run `npm install`.
+- Run the web app with `npm run start-Mac` (for Mac OS system) or `npm run start-Windows` (for Windows system). The latter command should also work for Linux OS but it is not tested.
